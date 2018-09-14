@@ -1,0 +1,2 @@
+Progress Report for Day 4 
+I learned to orgnise my directories with the help of TA sham..indeed it was a huge help to go through my directories and organize the way the teachers requires. I also worked with git commands how to add, commit , git push and check status. my journal for tonight!!! 
